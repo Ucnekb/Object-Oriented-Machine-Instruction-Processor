@@ -21,7 +21,9 @@ ekrana yazılmalıdır.
 111111111111 buyruk = ADD” mesajından 1 saniye sonra “T1 zamanında I = 1 D7 aktif IR(11-0) =
 100000000000 buyruk = INP” mesajı ekrana yazdırılmalıdır. Süreleri ayarlamak için timer veya thread.sleep()
 benzeri yapıları kullanabilirsiniz.
+
 Örnek bir ekran görüntüsü aşağıda verilmiştir:
+
 RAM.txt dosyası okundu.
 T0 zamanında I = 0 D1 aktif IR(11-0) = 111111111111 buyruk = ADD
 T1 zamanında I = 1 D7 aktif IR(11-0) = 100000000000 buyruk = INP
